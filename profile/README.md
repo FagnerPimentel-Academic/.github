@@ -3,8 +3,9 @@
 <p>Essa organização dedica-se a apresentar temas científicos e de desenvolvimento nos quais trabalhei, estou trabalhando atualmente ou tenho interesse como professor e orientador.
 Aqui você encontrará projetos principalmente relacionados à robótica, desenvolvimento web e desenvolvimento de jogos. Espero que você goste e encontre coisas que lhe interessem.</p>
 
-<h2>Tópicos de interesse para projetos de Iniciação Científica (IC) e Trabalhos de Conclusão de Curso (TCC):</h2>
 
+<summary><h2>Tópicos de interesse para projetos de Iniciação Científica (IC) e Trabalhos de Conclusão de Curso (TCC):</h2></summary>
+<details>
   <table>
     <thead>
       <tr>
@@ -121,13 +122,17 @@ Aqui você encontrará projetos principalmente relacionados à robótica, desenv
       </tr>
     </tbody>
   </table>
+</details>
 
-<h2>Jogos desenvolvidos em HTML, CSS e Javascript por calouros da disciplina de Desenvolvimento WEB:</h2>
+<summary><h2>Jogos desenvolvidos em HTML, CSS e Javascript por calouros da disciplina de Desenvolvimento WEB:</h2></summary>
+<details>
   <ul>
     <li><a href="https://github.com/FagnerPimentel-Academic/web_games">web_games</a></li>
   </ul>
+</details>
 
-<h2>Trabalhos de conclusão de curso (TCC) Finalizados:</h2>
+<summary><h2>Trabalhos de conclusão de curso (TCC) Finalizados:</h2></summary>
+<details>
 <ul>
   <li><a href="https://github.com/FagnerPimentel-Academic/robo-de-limpeza-industrial">robo-de-limpeza-industrial</a></li>
   <li><a href="https://github.com/FagnerPimentel-Academic/influencia-de-emocoes-em-jogos">influencia-de-emocoes-em-jogos</a></li>
@@ -136,7 +141,7 @@ Aqui você encontrará projetos principalmente relacionados à robótica, desenv
   <li><a href="https://github.com/FagnerPimentel-Academic/ROS-Gamification">ROS-Gamification</a></li>
   <li><a href="https://github.com/FagnerPimentel-Academic/BLUETOOTH-LOW-ENERGY">BLUETOOTH-LOW-ENERGY</a></li>
 </ul>
-
+</details>
 
 
 <!--
