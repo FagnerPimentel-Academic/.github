@@ -124,13 +124,6 @@ Aqui você encontrará projetos principalmente relacionados à robótica, desenv
   </table>
 </details>
 
-<summary><h2>Jogos desenvolvidos em HTML, CSS e Javascript por calouros da disciplina de Desenvolvimento WEB:</h2></summary>
-<details>
-  <ul>
-    <li><a href="https://github.com/FagnerPimentel-Academic/web_games">web_games</a></li>
-  </ul>
-</details>
-
 <summary><h2>Trabalhos de conclusão de curso (TCC) Finalizados:</h2></summary>
 <details>
 <ul>
@@ -142,6 +135,44 @@ Aqui você encontrará projetos principalmente relacionados à robótica, desenv
   <li><a href="https://github.com/FagnerPimentel-Academic/BLUETOOTH-LOW-ENERGY">BLUETOOTH-LOW-ENERGY</a></li>
 </ul>
 </details>
+
+
+<summary><h2>Jogos desenvolvidos em HTML, CSS e Javascript por calouros da disciplina de Desenvolvimento WEB:</h2></summary>
+<details>
+
+| Jogo | Descrição | Autores | Semestre |
+|---|---|---|---|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/202jogo-aula/game.html">jogo-aula</a>|Multi Player|-|-|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2024_2-Arcade9000/home.html">Arcade 9000</a>|Prepare-se para uma viagem no tempo! Arcade 9000 te relembra os clássicos queridinhos de toda a galera. Passe por fases enquanto relembra jogos que marcaram infâncias.|Nicole De Camillis<br>Pedro Thormeyr|2024.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2024_2-CorreCatchoro/principal.html">Corre, Catchoro!</a>|"Corre, Catchoro!!" é um jogo em que você é um cachorro correndo em velocidade máxima no meio de uma floresta cheia de morcegos perigosos! :O|Yuri da Silva Shimoki|2024.2</td>
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2024_2-JogodoNinja/jogo.html">Jogo do Ninja</a>|Em uma época de guerra e intrigas entre clãs ninjas, um habilidoso guerreiro é enviado em uma missão secreta e de alto risco. Seu objetivo é infiltrar-se nas profundezas do território inimigo para coletar suprimentos essenciais para seu clã, que tem sido ameaçado por uma escassez iminente. Mas a tarefa é mais perigosa do que parece: o território está repleto de armadilhas mortais e shurikens giratórios, posicionados estrategicamente pelos inimigos para deter qualquer intruso.|Leonardo<br>Luís|2024.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2024_2-SilkNever/home.html">Silk Never</a>|SilkNever é um jogo de plataforma desenvolvido por alunos da FEI, inspirado pela continuação ainda não lançada do famoso Hollow Knight, SilkSong.|Priscila Cunha Vazquez|2024.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-jogo/index.html">Jogo da Capivara</a>|No jogo, o jogador utilizará o mascote do Projeto, uma capivara com cartola, utilizando as teclas. O objetivo do jogo é que a Capivara consiga o maior número de Moedas Felizes enquanto desvia pela maior duração de tempo dos Foguetes Tristes.|Arthur Carvalho Rotkis<br>Arthur Leal Mussio<br>Daniel Santos Sobrinho<br>Felipe Brum Pereira<br>Gabriel Afonso dos Santos<br>Vinicius Trivellato Pereira|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-MathQuest/Projeto v1.13/inicio.html">Math Quest</a>|O jogo é uma corrida contra o tempo, onde os jogadores devem resolver equações matemáticas rapidamente. Eles têm 15 segundos para escolher a resposta correta (A, B, C ou D). Respostas certas valem 10 pontos, mas erros resultam na perda de um coração (inicialmente, três corações). O desafio é equilibrar rapidez e precisão para marcar pontos e manter as vidas.|Pedro Henrique da Fonseca<br>Wallace dos Santos Izidoro<br>Jônatas da Silva Gonçalves<br>Vinícius do Nascimento Generoso<br>Davi Moreira Cavalcante<br>Mario Eugenio Silva<br>|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-Projeto/index.html">Garotas em missão</a>|O objetivo do nosso projeto de inovação social é possibilitar o compartilhamento de trajetos, visando diminuir esse problema. Para exemplificar a ideia, criamos o jogo “Garotas em Missão: Superando os perigos do caminho universitário” que simula o trajeto de garotas desde sua casa até seu local de estudo. O jogo consiste em etapas que simulam situações do cotidiano. Durante elas, as personagens enfrentam diversas dificuldades, como ruas sem iluminação e bandidos.|Aline Rocha de Jesus<br>Bianca Silva Oliveira<br>Carolina Gonçalves Miranda<br>Ester Pereira dos Santos Nascimento<br>Gabrielly Thamirys Aparecida Bomfim<br>Luana de Almeida Ferreira|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-projeto_game/home_jogo.html">Space Invaders</a>|This game is based on the Space Invaders game created for Atari (1978), it is a more simple version of it|Mateus Scarpelli|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-ProjetoWebJogo/PaginaPrincipal.html">Rush Control</a>|O objetivo do jogo "Rush Control" é simples: Continuar o ônibus em ação pelo maior tempo possivel e permitir que seus passageiros chegar ao seu destino com o mínimo de estresse possível.|Eduardo G. Moreira<br>Caio Fonseca<br>Pedro Sabainsk<br>|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-Site-Aventura-Sem-Barreiras/index.html">Aventura Sem Barreiras</a>|O "Aventura sem Barreiras", consiste em um labirinto, onde você será um cadeirante e vai precisar enfrentar os problemas que são comuns para essas pessoas. O seu objetivo é chegar no final e alcançar o baú.|Artur Chaves Paiva<br>Giovane Contreras Oba<br>Giovanni Antonio Moreira<br>João Mateus E. B. da Silva<br>Rafael Denis Alonso<br>Heron de Souza|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_2-trabalhoPIS/index.html">AstroQuiz</a>|Com base nesta problemática, desenvolvemos um jogo que funciona como um quiz, com perguntas de conhecimento geral, visando promover uma integração do usuário com áreas variadas de aprendizado, se divertindo enquanto aprende.|Igor de Araujo Borges<br>Rebeca Moura<br>Leonardo<br>Amanda<br>Kaynã<br>Guilherme|2023.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-WingIt/home.html">WingIt</a>|FlapBird<br>Single Player|Pedro Alexandre Custódio Silva<br>Laura de Souza Parente|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-Ursal/index.html">Ursal</a>|Click<br>Tiro<br>Velocidade<br>Single Player<br>|Rafael Henrique de Gaspi|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-The_Last_of_Dead/pagina_jogo/pagina_jogo.html">The Last Of Dead</a>|Click<br>Velocidade<br>Single Player<br>|Gabriel Machado<br>Pedro Henrique Satoru|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-Space_Bullets/index.html">Space Bullets</a>|Tiro<br>Single Player|Augusto Teixera|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-SIMPD/SIMPD_home.html">SIMPD</a>|Defesa<br>Estratégia<br>Velocidade<br>Single Player|Igor Vicente<br>David Baecker|2023.1|    
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-QuiZmica/info.html">Quizmica</a>|Quiz<br>Quimica<br>Single Player|Ana Carolina Lazzuri<br>Eduardo Guerra Nunziata|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-PixelCar/Curriculum/sobre.html">PixelCar</a>|Corrida<br><br>Multi Player|Kawan mark<br>Paulo Hudson|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-GravityBender/sobre.html">GraviyBender</a>|Plataforma<br>Velocidade<br>Single Player|Guilherme Morais Escudeiro<br>Renan Casemiro Hessel|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-GHOSTNIGHT/HTML/Home.html">GHOSTNIGHT</a>|FlapBird<br>Coleta de elementos<br>Single Player|Rafael Iamashita Becsei<br>Paulo Andre de Oliveira|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-Desiste/menu.html">Desiste</a>|Mouse<br>Persistência<br>Single Player|Julian Ryu Takeda<br>Letizia Lowatzki Baptistella|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2023_1-CletinInvader/PaginaPrincipal.html">CletinInvader</a>|Tiro<br>Single Player|Marcela Nalesso<br>Lucas Kerr do Amaral|2023.1|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2022_2-Space-invaders/homepage.html">Space Invaders</a>|Nave<br>Tiro<br>Single Player|João Paulo<br>Henry Siqueira|2022.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2022_2-Penalty-FE/home.html">Penalty FEI</a>|Click<br>Sorte<br>Futebol<br>Single Player|Paulo Feitosa|2022.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2022_2-Or_a_marmota/index.html">Or, a marmota</a>|Click<br>Velocidade<br>Single Player<br>|Deise Adriana Silva Araújo<br>Sérgio Martins de Oliveira Santos|2022.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2022_2-Bomberman/inicial.html">Bomberman</a>|Estratégia<br>Multi Player|Nicolly Rosa<br>Thales Pasquott|2022.2|
+|<a href="https://fagnerpimentel-academic.github.io/web_games/games/2022_2-Asteroids/home.html">Asteroids</a>|Nave<br>Tiro<br>Single Player|Leandro Alencar<br>Mateus Rocha|2022.2|
+
+</details>
+
 
 
 <!--
