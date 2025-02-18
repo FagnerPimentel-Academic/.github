@@ -1,10 +1,55 @@
-<h1>Research topics by Fagner Pimentel</h1>
-<p> Hi there. Nice to see you here. 👋 </p>
-<p>This organization is dedicated to presenting scientific and development topics that I have worked on, I am currently working on or I am interested in as a professor and advisor.
-Here you will find projects mainly related to robotics, web development and game development. I hope you enjoy it and find things that interest you.</p>
+<h1>Temas de pesquisa de Fagner Pimentel</h1>
+<p> Olá. Que bom ver você aqui. 👋 </p>
+<p>Essa organização dedica-se a apresentar temas científicos e de desenvolvimento nos quais trabalhei, estou trabalhando atualmente ou tenho interesse como professor e orientador.
+Aqui você encontrará projetos principalmente relacionados à robótica, desenvolvimento web e desenvolvimento de jogos. Espero que você goste e encontre coisas que lhe interessem.</p>
 
-<h2> Concluded Undergratuation Final Works (Trabalhos de conclusão de curso - TCCs) </h2>
+<h2>Tópicos de interesse para projetos de Iniciação Científica (IC) e Trabalhos de Conclusão de Curso (TCC)</h2>
 
+  <table>
+    <thead>
+      <tr>
+        <th>Tema</th>
+        <th>Sites relacionados</th>
+        <th>Palavras chaves</th>
+        <th>Objetivo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Robocup @Home</th>
+      </tr>
+      <tr>
+        <th>Robocup ArmChalenge</th>
+      </tr>
+      <tr>
+        <th>Robocup Simulação 3D</th>
+      </tr>
+      <tr>
+        <th>RoboRacer</th>
+      </tr>
+      <tr>
+        <th>MicroMouse</th>
+      </tr>
+      <tr>
+        <th>ROS</th>
+      </tr>
+      <tr>
+        <td>Gameficação</td>
+      </tr>
+    </tbody>
+  </table>
+      
+  <ul>
+    <li><a href="https://github.com/FagnerPimentel-Academic/web_games">Robocup@home</a></li>
+  </ul>
+
+
+<h2>Jogos desenvolvidos em HTML, CSS e Javascript por calouros da disciplina de Desenvolvimento WEB</h2>
+  <ul>
+    <li><a href="https://github.com/FagnerPimentel-Academic/web_games">web_games</a></li>
+  </ul>
+
+<h2>Trabalhos de conclusão de curso (TCC) Finalizados</h2>
 <ul>
   <li><a href="https://github.com/FagnerPimentel-Academic/robo-de-limpeza-industrial">robo-de-limpeza-industrial</a></li>
   <li><a href="https://github.com/FagnerPimentel-Academic/influencia-de-emocoes-em-jogos">influencia-de-emocoes-em-jogos</a></li>
@@ -15,8 +60,6 @@ Here you will find projects mainly related to robotics, web development and game
 </ul>
 
 
-<h2>Games developed with html, css and Javascript by freshmen in the computer science course</h2>
-  <a href="https://github.com/FagnerPimentel-Academic/web_games">web_games</a>
 
 <!--
 Topicos de interesse para pesquisa:
