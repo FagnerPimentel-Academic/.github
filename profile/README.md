@@ -17,24 +17,35 @@ Aqui você encontrará projetos principalmente relacionados à robótica, desenv
     <tbody>
       <tr>
         <th>Robocup @Home</th>
+        <td>
+          https://athome.robocup.org/ 
+          <br>
+          https://github.com/RoboCupAtHomeLatinAmerica
+        </td>
       </tr>
       <tr>
         <th>Robocup ArmChalenge</th>
+        <td>https://arm.robocup.org/</td>
       </tr>
       <tr>
         <th>Robocup Simulação 3D</th>
+        <td>https://ssim.robocup.org/3d-simulation/</td>
       </tr>
       <tr>
         <th>RoboRacer</th>
+        <td>https://roboracer.ai/</td>
       </tr>
       <tr>
         <th>MicroMouse</th>
+        <td>https://en.wikipedia.org/wiki/Micromouse</td>
       </tr>
       <tr>
         <th>ROS</th>
+        <td>https://ros.org/</td>
       </tr>
       <tr>
         <td>Gameficação</td>
+        <td>-</td>
       </tr>
     </tbody>
   </table>
