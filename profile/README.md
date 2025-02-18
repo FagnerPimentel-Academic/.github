@@ -3,7 +3,7 @@
 <p>This organization is dedicated to presenting scientific and development topics that I have worked on, I am currently working on or I am interested in as a professor and advisor.
 Here you will find projects mainly related to robotics, web development and game development. I hope you enjoy it and find things that interest you.</p>
 
-<h2> Final work for the undergratuation (Trabalhos de conclusão de curso - TCCs) </h2>
+<h2> Concluded Undergratuation Final Works (Trabalhos de conclusão de curso - TCCs) </h2>
 
 <ul>
   <li><a href="https://github.com/FagnerPimentel-Academic/robo-de-limpeza-industrial">robo-de-limpeza-industrial</a></li>
@@ -15,7 +15,20 @@ Here you will find projects mainly related to robotics, web development and game
 </ul>
 
 
+<h2>Games developed with html, css and Javascript by freshmen in the computer science course</h2>
+  <a href="https://github.com/FagnerPimentel-Academic/web_games">web_games</a>
 
+<!--
+Topicos de interesse para pesquisa:
+- fifith car race
+- mouse race
+- robocup @HOME
+- ROBOCUP @ARMCHALENG
+- robocup 3D
+- ROS
+- gamificacao
+- 
+-->
 
 
 <!--
