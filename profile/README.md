@@ -126,14 +126,17 @@ Aqui você encontrará projetos principalmente relacionados à robótica, desenv
 
 <summary><h2>Trabalhos de conclusão de curso (TCC) Finalizados:</h2></summary>
 <details>
-<ul>
-  <li><a href="https://github.com/FagnerPimentel-Academic/robo-de-limpeza-industrial">robo-de-limpeza-industrial</a></li>
-  <li><a href="https://github.com/FagnerPimentel-Academic/influencia-de-emocoes-em-jogos">influencia-de-emocoes-em-jogos</a></li>
-  <li><a href="https://github.com/FagnerPimentel-Academic/implementacao-de-um-ambiente-de-aprendizado-virtual-gamificado">implementacao-de-um-ambiente-de-aprendizado-virtual-gamificado</a></li>
-  <li><a href="https://github.com/FagnerPimentel-Academic/estudo-comportamental-de-vidas-artificiais-sob-adversidades">estudo-comportamental-de-vidas-artificiais-sob-adversidades</a></li>
-  <li><a href="https://github.com/FagnerPimentel-Academic/ROS-Gamification">ROS-Gamification</a></li>
-  <li><a href="https://github.com/FagnerPimentel-Academic/BLUETOOTH-LOW-ENERGY">BLUETOOTH-LOW-ENERGY</a></li>
-</ul>
+  
+| Repositório GitHub | Repositório Biblioteca |
+|---|---|
+| <a href="https://github.com/FagnerPimentel-Academic/robo-de-limpeza-industrial">robo-de-limpeza-industrial</a> | https://repositorio.fei.edu.br/items/bdb2c727-5030-4460-a5fb-ec5bc0fe34f3 |
+| <a href="https://github.com/FagnerPimentel-Academic/influencia-de-emocoes-em-jogos">influencia-de-emocoes-em-jogos</a> | https://repositorio.fei.edu.br/workspaceitems/7279/view |
+| <a href="https://github.com/FagnerPimentel-Academic/implementacao-de-um-ambiente-de-aprendizado-virtual-gamificado">implementacao-de-um-ambiente-de-aprendizado-virtual-gamificado</a> | https://repositorio.fei.edu.br/workspaceitems/7281/view |
+| <a href="https://github.com/FagnerPimentel-Academic/estudo-comportamental-de-vidas-artificiais-sob-adversidades">estudo-comportamental-de-vidas-artificiais-sob-adversidades</a> | https://repositorio.fei.edu.br/workspaceitems/7280/view |
+| <a href="https://github.com/FagnerPimentel-Academic/ROS-Gamification">ROS-Gamification</a> | https://repositorio.fei.edu.br/items/66b84186-bd9b-495b-8f51-4e227863bbbc |
+| <a href="https://github.com/FagnerPimentel-Academic/BLUETOOTH-LOW-ENERGY">BLUETOOTH-LOW-ENERGY</a> | https://repositorio.fei.edu.br/items/9154afbf-5c51-44cb-9cb3-a918a77ec4ea |
+
+
 </details>
 
 
